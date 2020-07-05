@@ -1,5 +1,5 @@
 # Tracinha
-
+<p>Tracinha, um projeto que nasceu no terceiro Mega Hackathon da Shawee, com o objetivo de atender ao desafio da Árvore Livros. A solução tem a proposta de fomentar a paixão pela leitura desdes os primeiros dias na formação do aluno, criando um ambiente interativo e colaborativo de leitura. </p>
 
 <img src="./assets/Screenshot_1593918623.png" height="450"> <img src="./assets/Screenshot_1593918633.png" height="450"> <img src="./assets/Screenshot_1593935340.png" height="450"> 
 <img src="./assets/Screenshot_1593956168.png" height="450"> <img src="./assets/Screenshot_1593959273.png" height="450"> <img src="./assets/Screenshot_1593957516.png" height="450">
