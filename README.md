@@ -4,6 +4,8 @@
 <img src="./assets/Screenshot_1593918623.png" height="450"> <img src="./assets/Screenshot_1593918633.png" height="450"> <img src="./assets/Screenshot_1593935340.png" height="450"> 
 <img src="./assets/Screenshot_1593956168.png" height="450"> <img src="./assets/Screenshot_1593959273.png" height="450"> <img src="./assets/Screenshot_1593957516.png" height="450">
 
+# Prerequisites
+NodeJs 12.18+
 
 # Geting started
 - A partir de um terminal, acesse o diretório <b>/server/</b> e execute o comando abaixo. Este comando instalará todas as dependencias necessárias para o back-end:
